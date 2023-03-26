@@ -1,9 +1,14 @@
 # 🧑🏼‍💻 About Me:
-🎓 I am currently studying computer science at Sapienza University. <br>
-⌨️ I love programming and learning new things.
+Hello, I'm _Federico Ferdinandi_, a computer science student at Sapienza in Rome. 🎒
+
+I'm passionate about programming and I like to stay up to date on new technologies. My areas of interest include artificial intelligence, cybersecurity, and web application development.
+
+I have a good knowledge of various programming languages, including Python, Java, C, Go, HTML, and more.
+
+I'm always looking for new challenges and collaborations to improve my skills and acquire new ones.
 
 
-## 🌐 Socials:
+## Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/FedericoFerdinandi) 
 
 # 💻 Tech Stack:
