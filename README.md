@@ -1,5 +1,5 @@
 # 🧑🏼‍💻 About Me:
-🎓 I am currently studying computer science at Sapienza University.
+🎓 I am currently studying computer science at Sapienza University. <br>
 ⌨️ I love programming and learning new things.
 
 
