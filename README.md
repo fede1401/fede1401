@@ -2,7 +2,8 @@
 I'm Federico Ferdinandi, a **Software Engineer** passionate about creating innovative solutions and building robust applications.
 
 ## Education & Training
-- **Computer Science Degree** from Sapienza University of Rome
+- **Scientific High School Diploma** from IIS Giuseppe Colasanti
+- **Bachelor's in Computer Science** from Sapienza University of Rome
 - **Java Engineer Academy** at Umana S.p.A. in collaboration with TAS Group (Apr 2025 - May 2025)
   - Intensive 248-hour training program focused on Java Enterprise development for banking and financial sector
   - Specialized in payment systems, enterprise architecture, and financial technology solutions
